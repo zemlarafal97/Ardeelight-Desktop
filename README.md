@@ -11,7 +11,7 @@ WS2812 leds tape.</p>
 </ol>
 
 <h1>More information + documentation(polish language)</h1>
-<a href="https://docs.google.com/document/d/138IogkEFuFafDNWWIgnMhg05FAOMVS5dbKILXrdky7I/edit?usp=sharing"></a>
+<a href="https://docs.google.com/document/d/138IogkEFuFafDNWWIgnMhg05FAOMVS5dbKILXrdky7I/edit?usp=sharing">Go to documentation</a>
 
 <h1>Final effect - movies</h1>
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=aPvpqdbNyKk" 
